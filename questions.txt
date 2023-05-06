@@ -1,0 +1,45 @@
+ In order for lines in a text file to be processed properly as a question, the directions are as follows:
+ * On any line, include the question-  It must have a question mark or a period
+ * On the next line, include the answer- It should only include the answer itself and NOT a question mark or period
+ * On the line after that, include the complexity of the question which has to be an integer value
+
+
+What is 1+1?
+2
+1
+
+What is 1+2?
+3
+1
+
+What is 1+3?
+4
+1
+
+What is 1+4?
+5
+1
+
+What is 8/2?
+4
+2
+
+What is 7%3?
+1
+4
+
+What is the square root of 169?
+13
+6
+
+What is the derivative of -424x?
+-424
+7
+
+What is e to the power of the quantity of (pi*i) + 1?
+0
+9
+
+What is 3*3?
+9
+3
